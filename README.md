@@ -1,6 +1,6 @@
 ![image](https://raw.githubusercontent.com/ZentCashFoundation/brand/refs/heads/master/logo/wordmark/zentcash_wordmark_color.png)
 
-# Zent Cash Network Bot Discord 
+# Zent Cash Network Discord Bot
 A Discord Bot that displays information about the Zent Cash network.
 
 ### Have Questions or Need Help?
